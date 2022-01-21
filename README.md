@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/maxwellfry/) 
 
-As a software developer and with an academic background in philosophy and live music, I am accustomed to adapting to new professions and finding unexpected connections between unrelated skillsets. I am looking for a role as a junior software developer because I am passionate about finding logical and creative solutions to troublesome problems. 
+As a software developer and with an academic background in philosophy and live music, I am accustomed to adapting to new professions and finding unexpected connections between unrelated skillsets. I am looking for a role as a junior software developer because I am passionate about finding logical and creative solutions to complex problems. 
 
 I achieved a Masters with Distinction and a First-Class Bachelor's Degree in Philosophy from Durham University, taught myself the basics of software development, and spent four intense months learning TDD (Test-Driven-Development) and OOP (Object-Oriented-Programming) in two primary language stacks (Ruby and JavaScript) at Makers Academy, a coding boot camp. I learnt full language stacks in short timeframes, familiarised myself with foreign technologies and Agile best practices and applied what I had learnt each week to produce 25 applications. Aside from Software Development and Philosophy, I have also previously worked as a professional Live Musician, Grade 8 Bass Guitarist and Actor. 
 
