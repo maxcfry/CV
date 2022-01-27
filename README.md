@@ -2,11 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/maxwellfry/) 
 
-As a software developer and with an academic background in philosophy and live music, I am accustomed to adapting to new professions and finding unexpected connections between unrelated skillsets. I am looking for a role as a junior software developer because I am passionate about finding logical and creative solutions to complex problems. 
+As a software developer and with an academic background in philosophy and music, I am accustomed to adapting to new professions and finding unexpected connections between unrelated skillsets. I am looking for a role as a junior software developer because I am passionate about finding logical and creative solutions to complex problems.
 
 I achieved a Masters with Distinction and a First-Class Bachelor's Degree in Philosophy from Durham University, taught myself the basics of software development, and spent four intense months learning TDD (Test-Driven-Development) and OOP (Object-Oriented-Programming) in two primary language stacks (Ruby and JavaScript) at Makers Academy, a coding boot camp. I learnt full language stacks in short timeframes, familiarised myself with foreign technologies and Agile best practices and applied what I had learnt each week to produce 25 applications. Aside from Software Development and Philosophy, I have also previously worked as a professional Live Musician, Grade 8 Bass Guitarist and Actor. 
 
-A career in tech excites me because it provides an opportunity to consolidate the analytical and creative skills I have acquired through philosophy and music. I look forward to building imaginative programs and refining my software development skills with seasoned professionals. 
+A career in tech excites me because it provides an opportunity to consolidate the analytical and creative skills I have acquired through philosophy and music. I look forward to building imaginative programs and refining my software development skills alongside seasoned professionals. 
 
 
 
@@ -110,7 +110,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Hired sound and lighting equipment and advertised the festival on local radio stations and social media.
 
 ## Hobbies and Interests 
-- Music: Apart from being a Grade 8 Bass Guitarist, I play Guitar, Piano and Sing. I have loved music my whole life and the first program I built unguided was an album reccomendation quiz!
+- Music: Apart from being a Grade 8 Bass Guitarist, I play Guitar, Piano and Sing. I have loved music my whole life and the first program I built unguided was an album reccomendation quiz where a particular album would be reccomended depending on the answers given!
 - Cycling: I love cycling and make a habit of cycling regularly where possible using Beryl Bikes!
-- Cooking: During the numerous lockdowns of the past two years I became obssessed with cooking. My favourite dishes to make are Shakshuka, Jumbalaya and Ox Cheek Stew.
+- Cooking: During the numerous lockdowns of the past two years I became obssessed with cooking. My favourite dishes to make are Shakshuka, Jumbalaya and Paneer Achari.
 
